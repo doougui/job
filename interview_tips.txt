@@ -1,0 +1,98 @@
+Fazer um Curso não Garante Emprego! E AGORA? (Lucas Montano)
+
+- Fazer muitos projetos práticos (ou algum complexo)
+- Aprender a resolver problemas e ser persistente
+- Você sempre vai precisar pesquisar no Google
+- Evitar tentativa e erro (deixando de descobrir oq vc n sabe e gerando código lixo)
+- Se colocar em uma situação de desconforto
+- "A maneira que você vai responder as perguntas é mais importante do que o quanto você já tem de conhecimento sobre uma tecnologia". Explicar como você foi atrás e aprendeu aquele conteúdo
+Ao invés de falar: "Eu sei JavaScript, eu fiz até o módulo 3 de tal curso".
+Busque explicar: "Sim, eu usei JavaScript em um projeto que eu fiz, onde eu usava tal biblioteca. Tentei usar a lib X mas ela deu problema por causa disso e aquilo. Pesquisei eu conheci a biblioteca Y que resolvia melhor o problema, etc" 
+
+
+Primeiro Currículo de Programador (Lucas Montano)
+
+- Não ficar preso na mentalidade de que vc ainda é um aspirante na programação. 
+- Carta de apresentação: como que o que você fez no passado e o que você quer no futuro se encaixam e se adequam a vaga que vocẽ está aplicando.
+- Não colocar experiências passadas que não tem relação com a vaga q vc está aplicando
+- Ordem: xp profissional, ensino/educação/cursos
+- O que não colocar: foto, endereço, ensino médio e ensino fundamental, idade, sexo, estado cívil
+- Ler o que a empresa faz e colocar o objetivo no curriculo que se adeque ao que a empresa está procurando
+- O currículo precisa contar uma história
+- A descrição dos projetos precisam abrir pontos de discussão na entrevista
+ - Uma linha contando o tamanho do projeto, onde trabalhou e do que se tratava
+ - Duas linhas sobre o que eu concluí no projeto, quais foram as minhas conquistas, as minhas decisões e meus aprendizados
+ - Listar as tecnologias (palavras chaves)
+- Pesquisar os funcionários da empresa no Linkedin para pegar uma base  
+
+
+Reagindo a Currículo de Desenvolvedores (Lucas Montano)
+
+Colocar como principal tudo o que agrega para a vaga
+Se for junior, colocar projetos e coisas que vc experimentou, quando começou e pequenas coisas feitas. Colocar coisas convertidas de um tutorial para algo prático
+A primeira coisa a ser mostrada deve ser a xp
+
+perguntas de entrevistas para programadores (Lucas Montano)
+
+- Quem é você?
+ - Ser curto, direto e sem clichês
+ - Falar sobre experiências que você já viveu
+ - Explicar no self introduction pq vc é um ótimo candidato
+- Por que você quer trabalhar aqui?
+- Conte sobre a última vez que você teve um conflito com um colega de trabalho e como o conflito foi resolvido.
+- Onde você se vê daqui a 5 anos
+
+COMO GARANTIR NA ENTREVISTA (como Programador) (Lucas Montano)
+
+- Procurar saber mais sobre a empresa
+- Perguntar qual é o formato de entrevista da empresa (email, telefone, glassdoor)
+- Se prepare para se apresentar
+- Se prepare para perguntas comportamentais
+ - Por que você quer deixar a empresa atual? 
+   - Achar um bom motivo sem difamar a outra empresa. Vender a ideia de que você está buscando um novo passo para a sua carreira e acredita que a empresa que você está aplicando é o melhor lugar para isso 
+- Faça perguntas. A vaga tem que ser um bom fit para ambos os lados
+ - O que me fez aplicar para uma vaga na empresa
+ - O que me faria ficar na empresa
+ - Como o trabalho que vou desempenhar na empresa contribui para a missão da empresa
+ - Políticas de trabalho remoto
+ - Quantas horas semanais? O horário é flexivel?
+ - Sobre metodologias ágeis 
+ - Quais são os maiores desafios de engenharia/técnicos para a empresa no momento
+ - Rodadas de feedback
+ - Produtos
+ - Como é a cultura da empresa para ajudar os colaboradores e para ajudar as pessoas do time a darem feedback e crescerem
+ - Como são os times, quantos são em cada time, quais são as squads
+ - Qual tecnologia é o legado da empresa
+
+
+
+
+
+A sentence about your current or most recent role.
+A few sentences about your (academic) background. What did you focus on?
+Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What were the typical challenges and tasks? Which technologies did you use?
+Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
+
+
+
+Self-introduction
+"Meu nome é Douglas, eu me formei com nível técnico no ano de 2020, no ano passado e também sou um autodidata. Os meus principais interesses são em desenvolvimento full-stack (principalmente com Laravel que é o que eu uso frequentemente) e eu sou uma pessoa que gosta muito de construir aplicações performáticas e de qualidade e com código de fácil manutenção.
+
+Anteriormente eu trabalhava como freelancer, fiz alguns projetos, principalmente projetos front-end com HTML, CSS ou SASS, e recentemente eu venho estudando Laravel e seu ecossistema. Com ele eu construi alguns projetos que estão no meu github, onde eu apliquei conceitos como autenticação, consumo de APIs, armazenamento de dados com MySQL, orientação a objetos entre outras coisas.
+
+Eu fiquei interessado na vaga aqui na QuikDev pois eu acredito que aqui eu vou poder dar um novo passo para a minha carreira e, além disso, eu vou poder trabalhar com um time ágil entregando softwares de qualidade."
+
+
+Quais são seus pontos fracos?
+"Um ponto que eu considero que eu sempre preciso melhorar e estou constantemente melhorando é a minha falta de organização. Eu sou uma pessoa que não costuma definir exatamente o que precisa fazer e muitas vezes vai fazendo conforme vai lembrando das coisas e conforme a necessidade aparece. Por um lado isso pode me trazer uma certa flexibilidade pra fazer as coisas mas por outro isso acaba me prejudicando muito pela troca constante de tarefas e por muitas vezes até mesmo esquecer do que eu tenho que fazer. Então, observando esse problema e tomando consciência dele eu estou colocando em prática fazer to-do lists, lendo artigos sobre como me organizar melhor e delegando tarefas para os seus respectivos horários."
+
+
+Quais seus pontos fortes?
+"Eu considero um ponto forte meu o fato de que eu estou sempre tentando ajudar tanto equipes, quanto colegas (até mesmo na escola) com coisas que eu já passei, que eu tenho uma experiência naquilo. Isso é muito legal pois eu ingressei na escola, no curso técnico já com uma certa experiência em programação e eu estava sempre ajudando a turma a progredir, a aprender mais rápido (e até hoje a gente tem grupos em que nós fazemos isso). Eu acredito que isso poderia ser de grande ajuda pra que nós como equipe pudessemos evoluir mais rápido nos projetos sempre que possível."
+
+
+Por que Devo te Contratar?
+"Eu acredito que vocês devem me contratar pois eu sou uma pessoa que tem uma grande facilidade em resolver problemas.  Eu sou uma pessoa que sempre busca entender a situação, analisar o contexto do problema pra ai sim buscar uma solução. Eu também tenho uma grande proatividade principalmente pra aprender, eu sou uma pessoa que gosta muito de aprender coisas novas que eu posso colocar em prática pra trabalhar em colaboração com a equipe."
+
+
+
