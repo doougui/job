@@ -202,7 +202,7 @@ Interview
 - Questions to ask: https://twitter.com/mauriciojr/status/1481337048271364098?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Negotiation: https://twitter.com/camelouu/status/1558111134397366272?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Negotiation: https://twitter.com/pcfmello/status/1433799523793526788?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- Interview WarmUp da Google: https://twitter.com/tech_giulia/status/1595078200404881408?s=20&t=w9vZT4Lol0Vac4OE9xYT_w
+- Google Interview WarmUp: https://twitter.com/tech_giulia/status/1595078200404881408?s=20&t=w9vZT4Lol0Vac4OE9xYT_w
 - Tech interview handbook: https://github.com/yangshun/tech-interview-handbook
 
 Resume
