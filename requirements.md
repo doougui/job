@@ -142,6 +142,8 @@ Vacancies
 - https://twitter.com/tatidirienzo/status/1574457132661211136?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/dii_lua/status/1589689241680105472?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/techrecruiterb/status/1593020989163851776?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Entria: https://github.com/entria/jobs
+- bem.te.vi: https://github.com/BemteviSeguros/jobs
 
 General tips
 - https://twitter.com/dutradotdev/status/1386458034055041026?s=20&t=nCYORHy67aMRbHRnnybDOQ
