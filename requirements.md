@@ -159,6 +159,7 @@ General tips
 - https://twitter.com/sseraphini/status/1513980178195746824?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/reactive_dude/status/1594245681010515968?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/nickbulljs/status/1373573194846765061?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
 
 Worldwide
 - https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
