@@ -1,16 +1,3 @@
-- React -> 4
-- Redux -> 1
-- Apollo -> 1
-- GraphQL -> 2
-- Tailwind -> 1
-- Web Vitals -> 1
-- CI/CD -> 1
-- SOLID -> 1
-- TDD -> 1
-- BDD -> 1
-- SEO -> 1
-- React Native -> 3
-
 To do
 - Finish my website
   - [x] Link logo to home page
@@ -51,10 +38,8 @@ To do
   - [x] Export logo as svg image to avoid content swap (so that i can use only Inter as font-family)
   - [x] Fix filter by tag not working
   - [x] Fix light mode is not persisting
-  - [ ] Check error from google search engine and upload new sitemap
+  - [x] Check error from google search engine and upload new sitemap
   - [ ] Finish uncovered tests
-  - [ ] List tags in writings page
-  - [ ] Allow to clear filters
 
 To improve  
   - SPOKEN ENGLISH, FOR GODS SAKE
@@ -127,23 +112,24 @@ Job boards
 - https://gist.github.com/lucasqueiroz/507ac8696f325f7a0afcc6ddd4954441
 
 Vacancies
-- https://twitter.com/sseraphini/status/1425862025322893313?s=20&t=nCYORHy67aMRbHRnnybDOQ **
-- https://twitter.com/o_gabsferreira/status/1371816605995388929?s=20&t=nVCpDvmrxrTozicyrXInhQ
-- https://twitter.com/o_gabsferreira/status/1389575170474582018?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/rflpazini/status/1364633928171143172?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/o_gabsferreira/status/1366375106180771842?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/pokemaobr/status/1367273427183239168?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/WonderWanny/status/1423048272294424579?
-- https://twitter.com/aninha_dev/status/1422911063121666050?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/kibumLaura/status/1424736437690322945?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/FelippeRegazio/status/1468966395161448455?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/laistyping/status/1532729220790734850?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/EngineerRabbit/status/1573114267624243200?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/tatidirienzo/status/1574457132661211136?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/dii_lua/status/1589689241680105472?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/techrecruiterb/status/1593020989163851776?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- Entria: https://github.com/entria/jobs
+- Learn by applying for jobs: https://twitter.com/sseraphini/status/1425862025322893313?s=20&t=nCYORHy67aMRbHRnnybDOQ **
+- Worldwide jobs: https://twitter.com/laistyping/status/1532729220790734850?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Companies list: https://twitter.com/o_gabsferreira/status/1371816605995388929?s=20&t=nVCpDvmrxrTozicyrXInhQ
+- Companies list: https://twitter.com/aninha_dev/status/1422911063121666050?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Companies list: https://twitter.com/FelippeRegazio/status/1468966395161448455?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Companies list: https://twitter.com/EngineerRabbit/status/1573114267624243200?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Comapnies list: https://twitter.com/WonderWanny/status/1423048272294424579?
+- Companies list: https://twitter.com/o_gabsferreira/status/1389575170474582018?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Companies list: https://twitter.com/pokemaobr/status/1367273427183239168?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Companies list: https://twitter.com/o_gabsferreira/status/1366375106180771842?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Companies list: https://twitter.com/rflpazini/status/1364633928171143172?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Vacancies in general: https://twitter.com/techrecruiterb/status/1593020989163851776?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Vacancies in general: https://twitter.com/dabieu/status/1597306399578812419?s=20&t=vFq5RSOnCo0DVMWq5RXl_Q
+- Lemon.io: https://twitter.com/tatidirienzo/status/1574457132661211136?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Raro labs: https://twitter.com/camelouu/status/1468977840645459970?s=20&t=C9pB_KESaKHYNsY9mzppPw
 - bem.te.vi: https://github.com/BemteviSeguros/jobs
+- Entria: https://github.com/entria/jobs
+- Woovi: https://woovi.com/jobs/software-engineer/
 
 General tips
 - https://twitter.com/dutradotdev/status/1386458034055041026?s=20&t=nCYORHy67aMRbHRnnybDOQ
@@ -207,8 +193,27 @@ Interview
 - Negotiation: https://twitter.com/pcfmello/status/1433799523793526788?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - Google Interview WarmUp: https://twitter.com/tech_giulia/status/1595078200404881408?s=20&t=w9vZT4Lol0Vac4OE9xYT_w
 - Tech interview handbook: https://github.com/yangshun/tech-interview-handbook
+- LinkedIn interview prep: https://www.linkedin.com/interview-prep
 
 Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - https://twitter.com/nialljoemaher/status/1282625819395989504?s=20&t=KN8vcmLfqB6p4qAKGd_wwQ
+
+- Apollo
+- Web Vitals
+- CI/CD
+- SOLID
+- TDD
+- SEO
+- Relay 
+- Tailwind **
+- GraphQL **
+- Redux **
+- NodeJS **
+- MongoDB **
+
+- [ ] Find jobs
+  - [ ] What are the most asked requirements?
+  - [ ] Are full-stack jobs the majority?
+  - [ ] Research what is asked on interviews
