@@ -125,6 +125,7 @@ Vacancies
 - Companies list: https://twitter.com/rflpazini/status/1364633928171143172?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - Vacancies in general: https://twitter.com/techrecruiterb/status/1593020989163851776?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Vacancies in general: https://twitter.com/dabieu/status/1597306399578812419?s=20&t=vFq5RSOnCo0DVMWq5RXl_Q
+- Vacancies in general: https://twitter.com/techleti/status/1598011359673077760?t=0p-eaz3j-_PB6109kAHqMw&s=19
 - Lemon.io: https://twitter.com/tatidirienzo/status/1574457132661211136?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Raro labs: https://twitter.com/camelouu/status/1468977840645459970?s=20&t=C9pB_KESaKHYNsY9mzppPw
 - bem.te.vi: https://github.com/BemteviSeguros/jobs
@@ -148,6 +149,7 @@ General tips
 - https://twitter.com/reactive_dude/status/1594245681010515968?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/nickbulljs/status/1373573194846765061?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
+- Negotiation: https://www.linkedin.com/news/story/negotiating-find-common-ground-6097730/
 
 Worldwide
 - https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
@@ -194,6 +196,7 @@ Interview
 - Google Interview WarmUp: https://twitter.com/tech_giulia/status/1595078200404881408?s=20&t=w9vZT4Lol0Vac4OE9xYT_w
 - Tech interview handbook: https://github.com/yangshun/tech-interview-handbook
 - LinkedIn interview prep: https://www.linkedin.com/interview-prep
+- Books question: https://www.instagram.com/reel/Cln9UHIumnH/?igshid=YmMyMTA2M2Y=
 
 Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
