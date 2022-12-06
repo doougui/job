@@ -150,6 +150,7 @@ General tips
 - https://twitter.com/nickbulljs/status/1373573194846765061?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
 - Negotiation: https://www.linkedin.com/news/story/negotiating-find-common-ground-6097730/
+- How to grow up and be noticed on your job: https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd
 
 Worldwide
 - https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
@@ -202,6 +203,7 @@ Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - https://twitter.com/nialljoemaher/status/1282625819395989504?s=20&t=KN8vcmLfqB6p4qAKGd_wwQ
+- ATS friendly resume: https://twitter.com/rishikagupta__/status/1598561368428666880?s=20&t=hjGNWM7vaw61wkasT36stA
 
 - Apollo
 - Web Vitals
