@@ -198,6 +198,7 @@ Interview
 - Tech interview handbook: https://github.com/yangshun/tech-interview-handbook
 - LinkedIn interview prep: https://www.linkedin.com/interview-prep
 - Books question: https://www.instagram.com/reel/Cln9UHIumnH/?igshid=YmMyMTA2M2Y=
+- Top 20 Interview Questions (With Sample Answers): https://www.indeed.com/career-advice/interviewing/top-20-interview-questions
 
 Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
