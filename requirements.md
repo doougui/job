@@ -131,6 +131,7 @@ Vacancies
 - bem.te.vi: https://github.com/BemteviSeguros/jobs
 - Entria: https://github.com/entria/jobs
 - Woovi: https://woovi.com/jobs/software-engineer/
+  - Woovi hiring process: https://dev.to/woovi/woovi-hiring-process-lc7
 
 General tips
 - https://twitter.com/dutradotdev/status/1386458034055041026?s=20&t=nCYORHy67aMRbHRnnybDOQ
@@ -199,6 +200,7 @@ Interview
 - LinkedIn interview prep: https://www.linkedin.com/interview-prep
 - Books question: https://www.instagram.com/reel/Cln9UHIumnH/?igshid=YmMyMTA2M2Y=
 - Top 20 Interview Questions (With Sample Answers): https://www.indeed.com/career-advice/interviewing/top-20-interview-questions
+- Ask about employee turnover
 
 Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
