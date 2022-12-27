@@ -152,6 +152,7 @@ General tips
 - How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
 - Negotiation: https://www.linkedin.com/news/story/negotiating-find-common-ground-6097730/
 - How to grow up and be noticed on your job: https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd
+- How to land a 100k/y tech job: https://www.youtube.com/watch?v=Xg9ihH15Uto&list=WL&index=72&t=404s
 
 Worldwide
 - https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
@@ -201,6 +202,9 @@ Interview
 - Books question: https://www.instagram.com/reel/Cln9UHIumnH/?igshid=YmMyMTA2M2Y=
 - Top 20 Interview Questions (With Sample Answers): https://www.indeed.com/career-advice/interviewing/top-20-interview-questions
 - Ask about employee turnover
+- Sinais para passar confiança: https://www.youtube.com/watch?v=dSJPz1A_s7s&list=WL&index=4
+- Nunca faça isso em uma entrevista de emprego: https://www.youtube.com/watch?v=ufD8qhzIo4E&list=WL&index=7
+- Como descobrir suas competências: https://www.youtube.com/watch?v=8SVvDkucDqk&list=WL&index=8
 
 Resume
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
