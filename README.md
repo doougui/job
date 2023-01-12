@@ -219,6 +219,7 @@ Interview
 - Sinais para passar confiança: https://www.youtube.com/watch?v=dSJPz1A_s7s&list=WL&index=4
 - Nunca faça isso em uma entrevista de emprego: https://www.youtube.com/watch?v=ufD8qhzIo4E&list=WL&index=7
 - Como descobrir suas competências: https://www.youtube.com/watch?v=8SVvDkucDqk&list=WL&index=8
+- Me fale sobre você: https://www.linkedin.com/posts/julianamagalh%C3%A3esb_carreira-empresas-entrevista-activity-7019261620962877440-boPz?utm_source=share&utm_medium=member_desktop
 
 Resume
 
