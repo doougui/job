@@ -195,7 +195,7 @@ Technical preparation
 
 Interview
 
-- Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ \*\*
+- Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ
 - Interview tips (BH): https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/techleti/status/1548050640785395716?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/null_jesse/status/1473486003864150022?s=20&t=nCYOBHy67aMRbHRnnybDOQs
@@ -220,12 +220,14 @@ Interview
 - Nunca faça isso em uma entrevista de emprego: https://www.youtube.com/watch?v=ufD8qhzIo4E&list=WL&index=7
 - Como descobrir suas competências: https://www.youtube.com/watch?v=8SVvDkucDqk&list=WL&index=8
 - Me fale sobre você: https://www.linkedin.com/posts/julianamagalh%C3%A3esb_carreira-empresas-entrevista-activity-7019261620962877440-boPz?utm_source=share&utm_medium=member_desktop
+- Expectativa salarial: https://twitter.com/techrecruiterb/status/1613905356358295553?s=20&t=izJNiVE2M1Mc9ylEVDgRpg
+- Bea threads: https://twitter.com/techrcbea/status/1575532472728977408
 
 Resume
 
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
-- https://twitter.com/nialljoemaher/status/1282625819395989504?s=20&t=KN8vcmLfqB6p4qAKGd_wwQ
+- Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
 - ATS friendly resume: https://twitter.com/rishikagupta__/status/1598561368428666880?s=20&t=hjGNWM7vaw61wkasT36stA
 
 - Apollo
@@ -245,3 +247,16 @@ Resume
   - [ ] What are the most asked requirements?
   - [ ] Are full-stack jobs the majority?
   - [ ] Research what is asked on interviews
+
+Resume:
+Tailor de CV:
+  - Change title based on the role
+  - Highlight the skills based on the role
+  - Add projects if it is suitable for the job offer
+- Don't use buzzwords like "enthusiastic" or "proactive". Everybody does that and it says nothing
+- Maybe add a list of technical skills
+- Maybe add bullet points to job descriptions
+- Maybe add a technical courses to education
+- Maybe add "Other" section dedicated to culture stuff (https://prnt.sc/ibogqxl_Noyp)
+
+Interview:
