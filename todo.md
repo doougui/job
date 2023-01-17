@@ -1,0 +1,43 @@
+To do
+
+- Finish my website
+  - [x] Link logo to home page
+  - [x] Check if all markdown tags are rendered correctly
+  - [x] Either create a snippets page or remove the snippets item from the footer
+  - [x] Fetch current song being played
+  - [x] Implement newsletter
+  - [x] List writings correctly and allow to sort on writings page
+  - [x] Allow to filter by tag
+  - [x] Adjust texts
+  - [x] Solve writings getting squeezed on mobile (https://prnt.sc/5eB4Hv4otsZA)
+  - [x] Solve this problem when turning light mode and refreshing the page: https://prnt.sc/NXeaA76WXVtB
+  - [x] Adjust title of each page
+  - [x] Create logo
+  - [x] Create open graph images
+  - [x] SEO
+    - [x] Recommended open graph resolution: 1200x630px
+  - [x] Update manifest.json and icons in \_app.tsx
+  - [x] Solve "flick" when entering the page (maybe updating to next 13 and using next/font)
+  - [x] Remove twitter link
+  - [x] Refactor getFilesFrontmatter to just getWritings
+  - [x] Add isDraft option to frontmatter
+  - [x] Turn application into PWA
+  - [x] Fix open graph not rendering correctly
+  - [x] Improve writings page performance
+  - [x] Fix dark mode
+  - [x] Render link correctly in storybook
+  - [x] Add remaining stories
+    - [x] Add screens/Writing
+  - [x] Add storybook theme toggle
+  - [x] Move writingsMock from screens/Writings/mock to a generic mocks folder
+    - [x] Single writing mock
+    - [x] Writings mock that spreads the single writings and rewrites properties as needed
+  - [x] Add mobile theme switcher
+  - [x] Increase line-height from "Now playing" spotify song (https://prnt.sc/g-gcGMpxb9NF)
+  - [x] Remove old writings (or change to draft)
+  - [x] Add next/font
+  - [x] Export logo as svg image to avoid content swap (so that i can use only Inter as font-family)
+  - [x] Fix filter by tag not working
+  - [x] Fix light mode is not persisting
+  - [x] Check error from google search engine and upload new sitemap
+  - [ ] Finish uncovered tests
