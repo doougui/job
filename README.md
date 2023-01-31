@@ -176,3 +176,22 @@ Tailor de CV:
 - Maybe add "Other" section dedicated to culture stuff (https://prnt.sc/ibogqxl_Noyp)
 
 Interview:
+- Research the company
+  - https://twitter.com/camelouu/status/1457697043175051270?s=20&t=dNTzdAQHVvdkNIvG8eFzOg
+  - Take notes to ask later: https://twitter.com/camelouu/status/1457697049995001858?s=20&t=dNTzdAQHVvdkNIvG8eFzOg
+  - Show interest in the topics that are a requirement but you still don't know: https://twitter.com/camelouu/status/1457697057058267139?s=20&t=dNTzdAQHVvdkNIvG8eFzOg
+
+- Talking about you
+  - Take notes on 
+    - What you studied
+    - What projects have you been on
+    - Problems you have encountered and how you solved them
+    - Review your journey until this moment, recall your role on projects you have worked on, tools you have learned
+  - Understand what are your positive sides (based on feedbacks)
+  - Understand what are your negative sides that you are working towards
+  - What makes you stay or leave a company?
+  - Talk about aspects of the company that bring you closer to your goals
+
+- Questions to ask
+  - How are the management and division of teams?
+  - What is the maturity level of the product?
