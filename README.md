@@ -1,9 +1,3 @@
-
-Resources
-
-- https://github.com/lukasz-madon/awesome-remote-job
-- https://cartadedemissao.com/
-
 Job boards
 
 - https://remotar.com.br/
@@ -24,6 +18,11 @@ Job boards
 - https://www.virtualvocations.com/
 - https://github.com/randallkanna/awesome-job-list
 - https://gist.github.com/lucasqueiroz/507ac8696f325f7a0afcc6ddd4954441
+
+Resources
+
+- https://github.com/lukasz-madon/awesome-remote-job
+- https://cartadedemissao.com/
 
 Vacancies
 
@@ -105,8 +104,10 @@ Technical preparation
 
 Interview
 
-- // Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ
-- // Interview tips (BH): https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ
+BH = "behavioral"
+
+- Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ
+- Interview tips (BH): https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/techleti/status/1548050640785395716?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/null_jesse/status/1473486003864150022?s=20&t=nCYOBHy67aMRbHRnnybDOQs
 - Interview tips (BH): https://twitter.com/stephrecruta/status/1584593362174504961?s=20&t=1uYvemxM5Kf585P0JejMbQ
@@ -152,7 +153,7 @@ Resume
   - [ ] Research what is asked on interviews
 
 Resume:
-Tailor de CV:
+Modify your CV based on the job:
   - Change title based on the role
   - Highlight the skills based on the role
   - Add projects if it is suitable for the job offer
