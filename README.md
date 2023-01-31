@@ -50,6 +50,7 @@ Vacancies
 - Vagas para dev: https://twitter.com/EngineerRabbit/status/1610240738716942342?s=20&t=r9I2qvUQ0F01JYLMICpAAg
 - Vagas para dev: https://twitter.com/badtux_/status/1610216794022711298?s=20&t=r9I2qvUQ0F01JYLMICpAAg
 - Vagas para dev (gringas): https://twitter.com/ffrdev/status/1610245591023423488?s=20&t=r9I2qvUQ0F01JYLMICpAAg
+- Junior jobs: https://twitter.com/EngineerRabbit/status/1610240738716942342?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 
 General tips
 
@@ -132,6 +133,11 @@ Interview
 - Expectativa salarial: https://twitter.com/techrecruiterb/status/1613905356358295553?s=20&t=izJNiVE2M1Mc9ylEVDgRpg
 - Bea threads: https://twitter.com/techrcbea/status/1575532472728977408
 - Como ser chamado para entrevistas como alguém da área tech: https://www.linkedin.com/posts/mateusdnm_entrevista-tech-vagas-activity-7020768244684795905-hA2j?utm_source=share&utm_medium=member_desktop
+- Dica de entrevistas tech: https://twitter.com/flaviofilipex/status/1617511157514014722
+- Threads: https://twitter.com/techrecruiterb/status/1572191810037972993?s=20&t=3UkwfDC49VZyxvwVWTVFsA
+- Threads: https://twitter.com/techrcbea/status/1575532472728977408?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
+- Perfect candidate: https://twitter.com/Jeferson021/status/1610331515761688577?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
+- Interview tips: https://twitter.com/monokai_dev/status/1605653969505636352?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 
 Resume
 
