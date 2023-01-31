@@ -147,11 +147,6 @@ Resume
 - https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
 
-- [ ] Find jobs
-  - [ ] What are the most asked requirements?
-  - [ ] Are full-stack jobs the majority?
-  - [ ] Research what is asked on interviews
-
 Resume:
 Modify your CV based on the job:
   - Change title based on the role
@@ -187,4 +182,4 @@ Interview:
   - How are the management and division of teams?
   - What is the maturity level of the product?
 
-- Prepare a project to show
+- Maybe prepare a project to show
