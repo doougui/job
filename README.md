@@ -105,8 +105,8 @@ Technical preparation
 
 Interview
 
-- Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ
-- Interview tips (BH): https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- // Interview tips (BH): https://twitter.com/camelouu/status/1457697033654087680?s=20&t=nCYOBHy67aMRbHRnnybDOQ
+- // Interview tips (BH): https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/techleti/status/1548050640785395716?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - Interview tips (BH): https://twitter.com/null_jesse/status/1473486003864150022?s=20&t=nCYOBHy67aMRbHRnnybDOQs
 - Interview tips (BH): https://twitter.com/stephrecruta/status/1584593362174504961?s=20&t=1uYvemxM5Kf585P0JejMbQ
@@ -141,23 +141,10 @@ Interview
 
 Resume
 
+- https://twitter.com/techleti/status/1527439904027852800
 - https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
-- ATS friendly resume: https://twitter.com/rishikagupta__/status/1598561368428666880?s=20&t=hjGNWM7vaw61wkasT36stA
-
-- Apollo
-- Web Vitals
-- CI/CD
-- SOLID
-- TDD
-- SEO
-- Relay
-- Tailwind \*\*
-- GraphQL \*\*
-- Redux \*\*
-- NodeJS \*\*
-- MongoDB \*\*
 
 - [ ] Find jobs
   - [ ] What are the most asked requirements?
@@ -184,14 +171,19 @@ Interview:
 - Talking about you
   - Take notes on 
     - What you studied
-    - What projects have you been on
+    - What projects have you been working on
     - Problems you have encountered and how you solved them
-    - Review your journey until this moment, recall your role on projects you have worked on, tools you have learned
   - Understand what are your positive sides (based on feedbacks)
   - Understand what are your negative sides that you are working towards
-  - What makes you stay or leave a company?
   - Talk about aspects of the company that bring you closer to your goals
+
+  - Talking about your journey (https://twitter.com/camelouu/status/1512085210174685190?s=20&t=1uYvemxM5Kf585P0JejMbQ)
+    - Review your journey until this moment, recall your role on projects you have worked on, tools you have learned
+    - Why did you choose to leave a certain company?
+    - What makes you stay at a company or leave it?
 
 - Questions to ask
   - How are the management and division of teams?
   - What is the maturity level of the product?
+
+- Prepare a project to show
