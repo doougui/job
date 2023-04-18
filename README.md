@@ -138,6 +138,7 @@ BH = "behavioral"
 - Dica de entrevistas tech: https://twitter.com/flaviofilipex/status/1617511157514014722
 - Threads: https://twitter.com/techrecruiterb/status/1572191810037972993?s=20&t=3UkwfDC49VZyxvwVWTVFsA
 - Threads: https://twitter.com/techrcbea/status/1575532472728977408?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
+- Threads: https://twitter.com/tech_infanger/status/1613527712404049923?s=20
 - Perfect candidate: https://twitter.com/Jeferson021/status/1610331515761688577?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 - Interview tips: https://twitter.com/monokai_dev/status/1605653969505636352?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 
