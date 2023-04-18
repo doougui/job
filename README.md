@@ -73,6 +73,7 @@ General tips
 - How to grow up and be noticed on your job: https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd
 - How to land a 100k/y tech job: https://www.youtube.com/watch?v=Xg9ihH15Uto&list=WL&index=72&t=404s
 - Como você conseguiu seu primeiro emprego como dev? Onde achou as vagas e como conseguiu a entrevista? O que você fez pra se preparar pra entrevista?: https://twitter.com/_filipemesquita/status/1609251101655572480?s=20&t=sWDChuhMNL_qj9lx9Po6sg
+- What to research before a job interview: https://www.youthcentral.vic.gov.au/jobs-and-careers/job-interviews/preparing-for-a-job-interview/what-to-research-before-a-job-interview
 
 Worldwide
 
@@ -181,5 +182,6 @@ Interview:
 - Questions to ask
   - How are the management and division of teams?
   - What is the maturity level of the product?
+  - https://posthog.com/blog/what-to-ask-in-interviews
 
 - Maybe prepare a project to show

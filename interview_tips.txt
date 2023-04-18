@@ -76,7 +76,7 @@ Finish with a statement saying why you are seeking a new job opportunity and why
 
 
 Self-introduction
-"Meu nome é Douglas, eu me formei com nível técnico no ano de 2020, no ano passado e também sou um autodidata. Os meus principais interesses são em desenvolvimento full-stack (principalmente com Laravel que é o que eu uso frequentemente) e eu sou uma pessoa que gosta muito de construir aplicações performáticas e de qualidade e com código de fácil manutenção.
+"Meu nome é Douglas, eu me formei com nível técnico no ano de 2020 e também sou um autodidata. Os meus principais interesses são em desenvolvimento full-stack (principalmente com Laravel que é o que eu uso frequentemente) e eu sou uma pessoa que gosta muito de construir aplicações performáticas e de qualidade e com código de fácil manutenção.
 
 Anteriormente eu trabalhava como freelancer, fiz alguns projetos, principalmente projetos front-end com HTML, CSS ou SASS, e recentemente eu venho estudando Laravel e seu ecossistema. Com ele eu construi alguns projetos que estão no meu github, onde eu apliquei conceitos como autenticação, consumo de APIs, armazenamento de dados com MySQL, orientação a objetos entre outras coisas.
 
@@ -93,6 +93,3 @@ Quais seus pontos fortes?
 
 Por que Devo te Contratar?
 "Eu acredito que vocês devem me contratar pois eu sou uma pessoa que tem uma grande facilidade em resolver problemas.  Eu sou uma pessoa que sempre busca entender a situação, analisar o contexto do problema pra ai sim buscar uma solução. Eu também tenho uma grande proatividade principalmente pra aprender, eu sou uma pessoa que gosta muito de aprender coisas novas que eu posso colocar em prática pra trabalhar em colaboração com a equipe."
-
-
-
