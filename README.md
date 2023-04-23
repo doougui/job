@@ -186,3 +186,7 @@ Interview:
   - https://posthog.com/blog/what-to-ask-in-interviews
 
 - Maybe prepare a project to show
+
+Jobs to study contents:
+- https://woovi.com/jobs/software-engineer/
+- https://fig.io/jobs/frontend
