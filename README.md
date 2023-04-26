@@ -68,6 +68,7 @@ General tips
 - https://twitter.com/sseraphini/status/1513980178195746824?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/reactive_dude/status/1594245681010515968?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - https://twitter.com/nickbulljs/status/1373573194846765061?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- https://www.linkedin.com/posts/gabsferreira_assuntodasemana-emprego-tecnologia-activity-7056744550815416320-LNQ3?utm_source=share&utm_medium=member_desktop
 - How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
 - Negotiation: https://www.linkedin.com/news/story/negotiating-find-common-ground-6097730/
 - How to grow up and be noticed on your job: https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd
@@ -141,6 +142,7 @@ BH = "behavioral"
 - Threads: https://twitter.com/tech_infanger/status/1613527712404049923?s=20
 - Perfect candidate: https://twitter.com/Jeferson021/status/1610331515761688577?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 - Interview tips: https://twitter.com/monokai_dev/status/1605653969505636352?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
+- Interview tips: https://www.gupy.io/blog/entrevista-de-emprego
 
 Resume
 
