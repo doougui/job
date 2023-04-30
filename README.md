@@ -75,6 +75,8 @@ General tips
 - How to land a 100k/y tech job: https://www.youtube.com/watch?v=Xg9ihH15Uto&list=WL&index=72&t=404s
 - Como você conseguiu seu primeiro emprego como dev? Onde achou as vagas e como conseguiu a entrevista? O que você fez pra se preparar pra entrevista?: https://twitter.com/_filipemesquita/status/1609251101655572480?s=20&t=sWDChuhMNL_qj9lx9Po6sg
 - What to research before a job interview: https://www.youthcentral.vic.gov.au/jobs-and-careers/job-interviews/preparing-for-a-job-interview/what-to-research-before-a-job-interview
+- Como mostrar valor do seu trabalho: https://www.tramparnagringa.com.br/newsletter/como-mostrar-o-valor-do-seu-trabalho/
+- Trampar na Gringa: https://www.linkedin.com/company/tramparnagringa
 
 Worldwide
 
