@@ -53,22 +53,21 @@ Vacancies
 
 General tips
 
-- https://twitter.com/dutradotdev/status/1386458034055041026?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/FelippeRegazio/status/1374829918765387788?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/mauriciojr/status/1408415521603731460?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/camelouu/status/1409886433515606027?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://sibelius.substack.com/p/the-best-way-to-leave-a-job
-- https://twitter.com/devscansados/status/1419679781554200578?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/geekcom2/status/1421859290906865667?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/EngineerRabbit/status/1450857588774608907?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/camelouu/status/1453424948329033733?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/sseraphini/status/1483201270202744833?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/pokemaobr/status/1490756936517795847?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/danielhe4rt/status/1510681035285184516?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/sseraphini/status/1513980178195746824?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/reactive_dude/status/1594245681010515968?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/nickbulljs/status/1373573194846765061?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://www.linkedin.com/posts/gabsferreira_assuntodasemana-emprego-tecnologia-activity-7056744550815416320-LNQ3?utm_source=share&utm_medium=member_desktop
+- "Hackear recrutamento": https://twitter.com/geekcom2/status/1421859290906865667?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- Motivos que fazem você NÃO passar pra uma vaga tech: https://twitter.com/EngineerRabbit/status/1450857588774608907?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- Dicas para entrevista: https://twitter.com/camelouu/status/1453424948329033733?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- Dicas de LinkedIn: https://twitter.com/camelouu/status/1409886433515606027?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- Vá além do básico quando estiver procurando emprego: https://www.linkedin.com/posts/gabsferreira_assuntodasemana-emprego-tecnologia-activity-7056744550815416320-LNQ3?utm_source=share&utm_medium=member_desktop \*\*
+- Recrutamento cansado podcast: https://twitter.com/devscansados/status/1419679781554200578?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Dicas de como arrumar primeiro emprego: https://twitter.com/dutradotdev/status/1386458034055041026?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Dicas não técnicas para primeiro emprego: https://twitter.com/FelippeRegazio/status/1374829918765387788?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Onboarding: https://twitter.com/mauriciojr/status/1408415521603731460?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- The best way to leave a job: https://sibelius.substack.com/p/the-best-way-to-leave-a-job
+- When applying for a job, understand the company business: https://twitter.com/sseraphini/status/1483201270202744833?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Utilizando a bolha dev ao seu favor na busca do seu primeiro emprego!: https://twitter.com/pokemaobr/status/1490756936517795847?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- The unfair tech hiring processes (a senior dev perspective): https://dev.to/jssantana/the-mistakes-of-tech-hiring-process-a-senior-dev-perspective-1dp6
+- Looking for the First Job State: https://gist.github.com/sibelius/d8cf0d8b4a68bc36952a37006bb84109
+- Are you applying to remote jobs but never getting invited to interviews?: https://twitter.com/reactive_dude/status/1594245681010515968?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - How to get hired: https://twitter.com/sseraphini/status/1080928496057307137
 - Negotiation: https://www.linkedin.com/news/story/negotiating-find-common-ground-6097730/
 - How to grow up and be noticed on your job: https://dev.to/vit0rr/how-to-grow-up-and-be-noticed-on-your-job-34kd
@@ -80,31 +79,30 @@ General tips
 
 Worldwide
 
-- https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://www.youtube.com/watch?v=RvdCf-TNRYQ&ab_channel=FabioVedovelli
-- https://twitter.com/rubemazenha/status/1347301948513517568?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/devnic_/status/1397715863843835909?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/Willian_justen/status/1455238927334453249?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/lincolixavier/status/1455976096202166277?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/pablohildo/status/1457368329879007242?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
-- https://twitter.com/marlonrtt/status/1465428464140439559?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/italosg_/status/1530167716467834881?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- https://twitter.com/simonholdorf/status/1592425676237590529?s=20&t=1uYvemxM5Kf585P0JejMbQs
-- https://twitter.com/_filipemesquita/status/1492262944024915969?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Da vaga ao salário no exterior: https://twitter.com/pablohildo/status/1457368329879007242?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- International job boards: https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- 3 devs viram um tweet e agora trabalham para a Dinamarca: https://www.youtube.com/watch?v=RvdCf-TNRYQ&ab_channel=FabioVedovelli
+- PJ como dev: https://twitter.com/rubemazenha/status/1347301948513517568?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- PJ como MEI: https://twitter.com/devnic_/status/1397715863843835909?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Husky para receber pagamento: https://twitter.com/Willian_justen/status/1455238927334453249?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Como aprender inglês: https://twitter.com/lincolixavier/status/1455976096202166277?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Como receber e declarar $ do exterior: https://twitter.com/marlonrtt/status/1465428464140439559?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- Pra receber salário internacional eu obrigatoriamente preciso abrir empresa?: https://twitter.com/italosg_/status/1530167716467834881?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Dicas para dev desenvolver o inglês pra entrevista e trabalhar em times internacionais: https://twitter.com/_filipemesquita/status/1492262944024915969?s=20&t=1uYvemxM5Kf585P0JejMbQ
 
 Technical preparation
 
-- https://twitter.com/freeCodeCamp/status/1595734475220127745?s=20&t=Vovf7E42HcoDuyxlaypmrg
-- https://twitter.com/danielhe4rt/status/1595893724315279364
-- https://www.instagram.com/reel/ClY8W1_v6qE/?igshid=YmMyMTA2M2Y=
-- https://twitter.com/senhor_caveira/status/1452440505711747072?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://www.youtube.com/watch?v=dYZLxhVHxrU&ab_channel=WebDevJunkie
-- https://www.frontendinterviewhandbook.com/introduction/ \*\*
-- https://www.greatfrontend.com
-- https://www.greatfrontend.com/questions/quiz
-- https://github.com/DopplerHQ/awesome-interview-questions
-- https://github.com/sudheerj/javascript-interview-questions
-- https://github.com/sudheerj/reactjs-interview-questions
+- Front-end interview handbook: https://www.frontendinterviewhandbook.com/introduction/ \*\*
+- 30 React Interview Questions: https://twitter.com/freeCodeCamp/status/1595734475220127745?s=20&t=Vovf7E42HcoDuyxlaypmrg
+- Perguntas mais comuns em testes de emprego quando chega na área de tecnologia? https://twitter.com/danielhe4rt/status/1595893724315279364
+- Perguntas comuns em testes de emprego para devs: https://www.instagram.com/reel/ClY8W1_v6qE/?igshid=YmMyMTA2M2Y=
+- Dicas Para Mandar Bem Em Testes Técnicos: https://twitter.com/senhor_caveira/status/1452440505711747072?s=20&t=nCYORHy67aMRbHRnnybDOQ
+- React interview questions: https://www.youtube.com/watch?v=dYZLxhVHxrU&ab_channel=WebDevJunkie
+- greatfrontend, The ultimate Front End Interview preparation platform: https://www.greatfrontend.com
+- greatfrontend quiz: https://www.greatfrontend.com/questions/quiz
+- awesome-interview-questions: https://github.com/DopplerHQ/awesome-interview-questions
+- javascript-interview-questions: https://github.com/sudheerj/javascript-interview-questions
+- reactjs-interview-questions: https://github.com/sudheerj/reactjs-interview-questions
 
 Interview
 
@@ -148,9 +146,8 @@ BH = "behavioral"
 
 Resume
 
-- https://twitter.com/techleti/status/1527439904027852800
-- https://twitter.com/joaovdoc/status/1367581268548927499?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
+- dicas pra você montar currículo: https://twitter.com/techleti/status/1527439904027852800
+- O QUE COLOCAR NO MEU CURRÍCULO: https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
 
 Resume:
@@ -190,7 +187,3 @@ Interview:
   - https://posthog.com/blog/what-to-ask-in-interviews
 
 - Maybe prepare a project to show
-
-Jobs to study contents:
-- https://woovi.com/jobs/software-engineer/
-- https://fig.io/jobs/frontend
