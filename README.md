@@ -143,6 +143,7 @@ BH = "behavioral"
 - Perfect candidate: https://twitter.com/Jeferson021/status/1610331515761688577?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 - Interview tips: https://twitter.com/monokai_dev/status/1605653969505636352?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 - Interview tips: https://www.gupy.io/blog/entrevista-de-emprego
+- 25 respostas para perguntas da entrevista de emprego: https://www.vagas.com.br/profissoes/perguntas-da-entrevista-de-emprego/
 
 Resume
 
