@@ -79,16 +79,21 @@ General tips
 
 Worldwide
 
-- Da vaga ao salário no exterior: https://twitter.com/pablohildo/status/1457368329879007242?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
+- Dicas para dev desenvolver o inglês pra entrevista e trabalhar em times internacionais: https://twitter.com/_filipemesquita/status/1492262944024915969?s=20&t=1uYvemxM5Kf585P0JejMbQ
 - International job boards: https://twitter.com/_lehmariaa/status/1390771937379487747?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - 3 devs viram um tweet e agora trabalham para a Dinamarca: https://www.youtube.com/watch?v=RvdCf-TNRYQ&ab_channel=FabioVedovelli
+- Como aprender inglês: https://twitter.com/lincolixavier/status/1455976096202166277?s=20&t=nCYORHy67aMRbHRnnybDOQ
+
+Worldwide payments
+
+- Da vaga ao salário no exterior: https://twitter.com/pablohildo/status/1457368329879007242?s=20&t=nCYORHy67aMRbHRnnybDOQ \*\*
 - PJ como dev: https://twitter.com/rubemazenha/status/1347301948513517568?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - PJ como MEI: https://twitter.com/devnic_/status/1397715863843835909?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - Husky para receber pagamento: https://twitter.com/Willian_justen/status/1455238927334453249?s=20&t=nCYORHy67aMRbHRnnybDOQ
-- Como aprender inglês: https://twitter.com/lincolixavier/status/1455976096202166277?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - Como receber e declarar $ do exterior: https://twitter.com/marlonrtt/status/1465428464140439559?s=20&t=nCYORHy67aMRbHRnnybDOQ
 - Pra receber salário internacional eu obrigatoriamente preciso abrir empresa?: https://twitter.com/italosg_/status/1530167716467834881?s=20&t=1uYvemxM5Kf585P0JejMbQ
-- Dicas para dev desenvolver o inglês pra entrevista e trabalhar em times internacionais: https://twitter.com/_filipemesquita/status/1492262944024915969?s=20&t=1uYvemxM5Kf585P0JejMbQ
+- Como receber salário: https://www.linkedin.com/posts/pauloluan_trabalhar-para-a-gringa-no-brasil-%C3%A9-perfeito-activity-7054843279225303040-0S5q?utm_source=share&utm_medium=member_desktop
+- Como receber salário: https://i.imgur.com/feLLELn.png
 
 Technical preparation
 
@@ -150,6 +155,7 @@ Resume
 - dicas pra você montar currículo: https://twitter.com/techleti/status/1527439904027852800
 - O QUE COLOCAR NO MEU CURRÍCULO: https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
+- Dicas de CV (Thread): https://twitter.com/tech_infanger/status/1583819638177087489
 
 Resume:
 Modify your CV based on the job:
