@@ -149,6 +149,7 @@ BH = "behavioral"
 - Interview tips: https://twitter.com/monokai_dev/status/1605653969505636352?s=20&t=r9LVK-aDVpr9tGpHu_2qlg
 - Interview tips: https://www.gupy.io/blog/entrevista-de-emprego
 - 25 respostas para perguntas da entrevista de emprego: https://www.vagas.com.br/profissoes/perguntas-da-entrevista-de-emprego/
+- Don't get stumped by this interview question ("Tell us about yourself"): https://joshfullmer.substack.com/p/dont-get-stumped-by-this-interview \*\*
 
 Resume
 
