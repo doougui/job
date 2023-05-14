@@ -25,7 +25,7 @@
 - Informações desnecessárias:
 	- Foto, endereço, se fez ensino médio e onde, idade, sexo, estado civil
 
-- Manter currículo curto, conciso e o mais detalhado possível. Casando conhecimento que vc tem a tragetória de crescimento.
+- Manter currículo curto, conciso e o mais detalhado possível. Casando conhecimento que vc tem a trajetória de crescimento.
 
 - Ser claro e objetivo: 
 	- O que estou procurando no momento? Pra qual posição estou aplicando? O que a empresa faz? 
@@ -46,7 +46,7 @@
 # Resumo do vídeo: https://youtu.be/JbDpTb5kxvI
 
 - Sumário deve descrever basicamente oq vc almeja atingir em poucas palavras. Uma versão mais elaborada do título de perfil do linkedin
-	- Ex: Software Developer (ou Mobile Developer) com 7 anos de experiência especializado em React Native ou Android Nativo com domínio de expertise em desenvolvimento de aplicações para o mercado financeiro (ou algo que se destaca na sua jornada). Trabalhando em projetos que atingiram tantos milhões de usuário (finalizar com um achievement)
+	- Ex: Software Developer (ou Mobile Developer) com 7 anos de experiência especializado em React Native ou Android Nativo com domínio de expertise em desenvolvimento de aplicações para o mercado financeiro (ou algo que se destaca na sua jornada). Trabalhando em projetos que atingiram tantos milhões de usuários (finalizar com um achievement)
 	- Exemplo de sumário ÓTIMO: https://prnt.sc/Ks3H8oS0foVd
 
 - Sem necessidade de frases como essa: https://prnt.sc/vZRgNwf-Sqzm
