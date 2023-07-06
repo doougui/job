@@ -18,6 +18,7 @@ Job boards
 - https://www.virtualvocations.com/
 - https://github.com/randallkanna/awesome-job-list
 - https://gist.github.com/lucasqueiroz/507ac8696f325f7a0afcc6ddd4954441
+- https://www.linkedin.com/posts/leticia-quevedo_procurando-uma-vaga-internacional-e-remota-activity-7071862456716865536-e61Y?utm_source=share&utm_medium=member_desktop
 
 Resources
 
@@ -76,6 +77,7 @@ General tips
 - What to research before a job interview: https://www.youthcentral.vic.gov.au/jobs-and-careers/job-interviews/preparing-for-a-job-interview/what-to-research-before-a-job-interview
 - Como mostrar valor do seu trabalho: https://www.tramparnagringa.com.br/newsletter/como-mostrar-o-valor-do-seu-trabalho/
 - Trampar na Gringa: https://www.linkedin.com/company/tramparnagringa
+- Como conseguir um trabalho na gringa: https://www.linkedin.com/posts/pauloluan_jobnagringa-activity-7073981708320092160-pfrI?utm_source=share&utm_medium=member_desktop
 
 Worldwide
 
@@ -193,5 +195,6 @@ Interview:
   - How are the management and division of teams?
   - What is the maturity level of the product?
   - https://posthog.com/blog/what-to-ask-in-interviews
+  - https://www.linkedin.com/posts/pauloluan_voc%C3%AA-%C3%A9-uma-batata-ou-o-qu%C3%AA-candidato-tamb%C3%A9m-activity-7082667009787781120-zu7R?utm_source=share&utm_medium=member_desktop
 
 - Maybe prepare a project to show
