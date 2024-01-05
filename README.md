@@ -159,6 +159,7 @@ Resume
 - O QUE COLOCAR NO MEU CURRÍCULO: https://twitter.com/ovictorjame/status/1299090103814553600?s=20&t=wz2mOPMKDwT6HUrzM19B5A
 - Write a better CV: https://dev.to/nialljoemaher/write-a-better-cv-get-more-interviews-3fdh
 - Dicas de CV (Thread): https://twitter.com/tech_infanger/status/1583819638177087489
+- HOW TO CREATE THE ULTIMATE SOFTWARE ENGINEER RESUME: https://x-team.com/blog/ultimate-software-engineer-resume/
 
 Resume:
 Modify your CV based on the job:
