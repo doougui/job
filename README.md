@@ -197,5 +197,6 @@ Interview:
   - What is the maturity level of the product?
   - https://posthog.com/blog/what-to-ask-in-interviews
   - https://www.linkedin.com/posts/pauloluan_voc%C3%AA-%C3%A9-uma-batata-ou-o-qu%C3%AA-candidato-tamb%C3%A9m-activity-7082667009787781120-zu7R?utm_source=share&utm_medium=member_desktop
+  - If you were to hire me right now, where best would you utilize my skill set? https://www.youtube.com/shorts/23owdgVAV5k
 
 - Maybe prepare a project to show
