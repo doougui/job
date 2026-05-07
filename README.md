@@ -1,6 +1,7 @@
 Job boards
 
 - https://remotar.com.br/
+- https://remoteyeah.com/
 - https://remoteok.io/
 - https://weworkremotely.com/
 - https://www.producthunt.com/jobs
